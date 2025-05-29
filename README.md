@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Germán Oyarzo</h1>
 <h3 align="center">FullStack Developer</h3>
 
-- 🔭 I’m currently working on [Softtek like Java Developer](https://www.softtek.com/)
-
-- 🌱 I’m currently learning **React-Springboot**
+- 🔭 I’m currently working on [Softtek like Full Stack Developer](https://www.softtek.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/germanoyarzo/](https://github.com/germanoyarzo/)
 
